@@ -1,0 +1,12 @@
+{		
+	"name": "angular-spinner",		
+	"description": "Angular directive to show an animated spinner (using spin.js) taken from https://github.com/Attrash-Islam/bower-angular-spinner (no longer exists)",		
+	"main": "./dist/angular-spinner.min.js",		
+    "author": "Uri Shaked",
+	"license": "MIT",		
+	"homepage": "https://github.com/brendan-ma-1/angular-spinner",		
+	"repository": {		
+		"type": "git",		
+		"url": "https://github.com/brendan-ma-1/angular-spinner"		
+	}		
+}
